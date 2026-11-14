@@ -1,13 +1,15 @@
 # Linux Command Finder
 
-Десктопный и консольный справочник-поисковик по командам Linux на **Python (`tkinter`)** с поддержкой нечёткого поиска (`SequenceMatcher`) по описанию задачи на русском и английском языках.
+> 🌐 **Language:** **English** | [Русский (README_Ru.md)](README_Ru.md)
 
-## ✨ Возможности
-- 🔍 **Умный поиск по смыслу и ключевым словам** — находит нужную команду по запросам вроде *«создать папку»*, *«посмотреть процессы»*, *«права доступа»* или по названию утилиты.
-- 🖥️ **Графический интерфейс на Tkinter** — удобная таблица результатов с подробным описанием каждой команды.
-- 📚 **Обширная база команд** — файловая система, права, процессы, сеть, архивы, поиск и системная диагностика.
+An interactive desktop and CLI Linux command reference and search utility built with **Python (`tkinter`)**, supporting fuzzy search (`SequenceMatcher`) by task description in both English and Russian.
 
-## 🚀 Запуск
+## ✨ Features
+- 🔍 **Smart Semantic & Keyword Search** — finds the right command from natural queries like *"create folder"*, *"view processes"*, *"file permissions"*, or by binary name.
+- 🖥️ **Tkinter Desktop GUI** — clean searchable table view with detailed descriptions and flags for every command.
+- 📚 **Comprehensive Command Database** — covers filesystem operations, permissions, process management, networking, archives, search, and system diagnostics.
+
+## 🚀 Usage
 
 ```bash
 python3 linux_command_search.py
