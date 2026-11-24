@@ -14,3 +14,6 @@ An interactive desktop and CLI Linux command reference and search utility built 
 ```bash
 python3 linux_command_search.py
 ```
+
+## 📄 License
+MIT © [Goblin-Inc](https://github.com/Goblin-Inc)
